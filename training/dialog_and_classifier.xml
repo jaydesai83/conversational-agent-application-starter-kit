@@ -5,7 +5,7 @@
             <output id="output_2508575">
                 <prompt selectionType="SEQUENTIAL">
                     <item>What is your name?</item>
-                    <item>What can I call you?/item>
+                    <item>What can I call you?</item>
                 </prompt>
                 <getUserInput id="getUserInput_2508591">
                     <input isAutoLearnCandidate="true"
